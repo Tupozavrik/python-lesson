@@ -1,5 +1,6 @@
 
-with open("111.txt", 'r') as file: 
+with open("111.txt", 'r'
+) as file: 
     filesplit = [line.split() for line in file]
 
 
